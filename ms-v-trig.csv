@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J11";"IDC-Header_2x08_P2.54mm_Vertical";1;"Power Conn";;;
+2;"D1,D2";"D_T-1_P5.08mm_Horizontal";2;"1N4148";;;
+3;"J2";"Pin_D1.0mm_L10.0mm_LooseFit";1;"S TRIG OUT 1";;;
+4;"J4";"Pin_D1.0mm_L10.0mm_LooseFit";1;"S TRIG OUT 2";;;
+5;"J6";"Pin_D1.0mm_L10.0mm_LooseFit";1;"S TRIG OUT 3";;;
+6;"J7";"Pin_D1.0mm_L10.0mm_LooseFit";1;"S TRIG IN 1";;;
+7;"J8";"Pin_D1.0mm_L10.0mm_LooseFit";1;"CV OUT 1";;;
+8;"J9";"Pin_D1.0mm_L10.0mm_LooseFit";1;"S TRIG IN 2";;;
+9;"J10";"Pin_D1.0mm_L10.0mm_LooseFit";1;"CV OUT 2";;;
+10;"J1";"Pin_D1.0mm_L10.0mm_LooseFit";1;"CV IN 1";;;
+11;"J5";"Pin_D1.0mm_L10.0mm_LooseFit";1;"CV IN 3";;;
+12;"Q3,Q2,Q1";"TO-92Flat";3;"Q_NPN_BCE";;;
+13;"Q4,Q5";"TO-92Flat";2;"Q_PNP_BCE";;;
+14;"R8,R5";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";2;"100k";;;
+15;"R9,R1,R2,R3,R4,R6,R7";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";7;"10k";;;
+16;"U1";"TO-220-3_Vertical";1;"LM7805_TO220";;;
+17;"J3";"Pin_D1.0mm_L10.0mm_LooseFit";1;"CV IN 2";;;
